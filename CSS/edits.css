@@ -1,0 +1,44 @@
+body
+{
+    background-color:NONE;
+    margin:0;
+    padding:0;
+
+}
+header{
+    background-color:black;
+    color:white;
+    PADDING:16px;
+    text-align:center;
+}
+ul li{
+    display:inline;
+    margin:15px;
+   
+}
+
+ul li a{
+    font-size:50px;
+    font-weight:bold;
+    color:white;
+    text-decoration:none;
+
+}
+
+#products
+{
+    display:flex;
+    margin-left:70px;
+    justify-content: spca-around;
+}
+footer
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    width: 100%;
+    bottom: 100%;
+    
+}
